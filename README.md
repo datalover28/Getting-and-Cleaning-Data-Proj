@@ -17,10 +17,15 @@ The work submitted for this project is the work of the student who submitted it
 The script required to generate the tidy data set is called run_analysis.R.
 
 First I have merged the test and train datasets 
+
 then I changed first two column's name
+
 then I subsetted the columns containing only mean() and std() features
+
 then I gave labels to the activites
+
 then to make tidy dataset I made Features and Value Column which contains all the observations of the features and their corresponding values resp 
+
 then by grouping them i summarized it with respect to mean of the values
 
 
